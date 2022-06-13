@@ -1,7 +1,6 @@
 #ifndef __STACK_H
 #define __STACK_H
 
-#include <iostream>
 #include <string>
 using namespace std;
 
